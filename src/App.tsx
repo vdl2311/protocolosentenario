@@ -71,18 +71,6 @@ export default function App() {
         <p className="text-xl md:text-2xl text-gray-700 mb-8 font-medium leading-relaxed">
           Como restaurar sua vitalidade natural sem dietas extremas ou laxantes agressivos.
         </p>
-        <div className="w-full max-w-3xl mx-auto aspect-video bg-gray-100 rounded-xl shadow-2xl relative overflow-hidden flex items-center justify-center cursor-pointer border-4 border-white ring-1 ring-gray-200 group">
-          <img 
-            src="https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&q=80&w=1200&h=675" 
-            alt="Vídeo de Apresentação" 
-            className="w-full h-full object-cover opacity-90 group-hover:scale-105 transition-transform duration-700"
-          />
-          <div className="absolute inset-0 bg-black/30 flex items-center justify-center">
-            <div className="w-20 h-20 md:w-24 md:h-24 bg-orange-500 rounded-full flex items-center justify-center shadow-[0_0_30px_rgba(249,115,22,0.5)] group-hover:scale-110 transition-transform">
-              <Play className="text-white ml-2 w-10 h-10 md:w-12 md:h-12 fill-current" />
-            </div>
-          </div>
-        </div>
       </section>
 
       {/* 2. Storytelling / O Problema */}
