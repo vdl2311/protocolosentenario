@@ -172,7 +172,7 @@ export default function App() {
               <p className="text-orange-300 font-medium mt-2">Valor promocional sujeito a encerramento hoje.</p>
             </div>
 
-            <a href="#" className="block w-full max-w-lg mx-auto bg-green-500 hover:bg-green-400 text-gray-900 py-5 px-6 rounded-xl text-xl md:text-2xl font-black uppercase tracking-tight shadow-[0_8px_0_rgb(21,128,61)] hover:shadow-[0_4px_0_rgb(21,128,61)] hover:translate-y-1 transition-all">
+            <a href="https://pay.hotmart.com/K105529713A" target="_blank" rel="noopener noreferrer" className="block w-full max-w-lg mx-auto bg-green-500 hover:bg-green-400 text-gray-900 py-5 px-6 rounded-xl text-xl md:text-2xl font-black uppercase tracking-tight shadow-[0_8px_0_rgb(21,128,61)] hover:shadow-[0_4px_0_rgb(21,128,61)] hover:translate-y-1 transition-all">
               SIM! QUERO ACESSAR O CÓDIGO DA LONGEVIDADE AGORA
             </a>
             
@@ -266,7 +266,7 @@ export default function App() {
 
       {/* Mobile Fixed CTA */}
       <div className="fixed bottom-0 left-0 right-0 p-3 bg-white border-t border-gray-200 z-50 md:hidden shadow-[0_-10px_20px_-10px_rgba(0,0,0,0.15)] flex justify-center">
-         <a href="#offer" className="w-full bg-green-500 hover:bg-green-600 text-gray-900 py-4 rounded-xl text-center font-black text-lg shadow-[0_4px_0_rgb(21,128,61)] active:shadow-none active:translate-y-1 transition-all uppercase tracking-tight">
+         <a href="https://pay.hotmart.com/K105529713A" target="_blank" rel="noopener noreferrer" className="w-full bg-green-500 hover:bg-green-600 text-gray-900 py-4 rounded-xl text-center font-black text-lg shadow-[0_4px_0_rgb(21,128,61)] active:shadow-none active:translate-y-1 transition-all uppercase tracking-tight">
             ACESSAR O CÓDIGO AGORA
          </a>
       </div>
